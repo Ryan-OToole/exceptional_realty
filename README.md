@@ -6,4 +6,4 @@ Exceptional Realty Group Website
 This is an example site for the Intro to Front-end Development Course at The Flatiron School.
 
 #Contact
-otoolerj@flatironschool.com 
+otoolerj@flatironschool.com
